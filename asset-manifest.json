@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eliaske254/react-tailwind-app/static/css/main.c485bced.css",
+    "main.js": "/eliaske254/react-tailwind-app/static/js/main.eab05232.js",
+    "static/media/laundry1.jpg": "/eliaske254/react-tailwind-app/static/media/laundry1.2cec8241badd185e0c62.jpg",
+    "static/media/support.jpg": "/eliaske254/react-tailwind-app/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "index.html": "/eliaske254/react-tailwind-app/index.html",
+    "main.c485bced.css.map": "/eliaske254/react-tailwind-app/static/css/main.c485bced.css.map",
+    "main.eab05232.js.map": "/eliaske254/react-tailwind-app/static/js/main.eab05232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c485bced.css",
+    "static/js/main.eab05232.js"
+  ]
+}
